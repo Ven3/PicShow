@@ -1,0 +1,5 @@
+﻿CREATE TABLE t_path
+(
+	[lid] INT NOT NULL PRIMARY KEY DEFAULT 0, 
+    [lpath] NVARCHAR(300) NULL
+)
